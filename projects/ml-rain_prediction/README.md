@@ -29,4 +29,4 @@ In this project, I:
 - **Python**  
   - Libraries: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn  
 - **Jupyter Notebook** (for experimentation and model evaluation)  
-- **Classification Models**: Linear Regression, KNN, Decision Trees, Logistic Regression, SVM  
+- **Machine Learning Models**: Linear Regression, KNN, Decision Trees, Logistic Regression, SVM  
