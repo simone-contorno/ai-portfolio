@@ -53,8 +53,7 @@ In this repository, you will find several AI projects related to different aspec
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 **Contact**
-For any questions, feel free to reach out to me at:  
-[simone.contorno@outlook.it](mailto:simone.contorno@outlook.it)
+For any questions, feel free to reach out to me by [email](mailto:simone.contorno@outlook.it).
 
 ---
 
