@@ -32,6 +32,22 @@ In this repository, you will find several AI projects related to different aspec
 - **Objective**: Practice regression models using Keras API.  
 - **Key Concepts**: Regression, Keras.
 
+### 4. **Fashion-MNIST Classification Using CNN**  
+- **Objective**: Classify Fashion-MNIST images using convolutional neural networks (CNNs) in PyTorch.  
+- **Key Concepts**: CNN, PyTorch, image classification, custom datasets, model evaluation.
+
+### 5. **League of Legends Match Predictor**  
+- **Objective**: Predict outcomes of League of Legends matches using logistic regression in PyTorch.  
+- **Key Concepts**: Logistic regression, PyTorch, L2 regularization, model evaluation, ROC curves.
+
+### 6. **Comparing VGG16, ResNet50, and ResNet18 for Image Classification**  
+- **Objective**: Compare the performance of VGG16, ResNet50, and ResNet18 pre-trained models for image classification tasks.  
+- **Key Concepts**: Transfer learning, Keras, TensorFlow, PyTorch, model comparison, binary/multi-class classification.
+
+### 7. **AI-Powered RAG Assistant (LangChain Chatbot)**  
+- **Objective**: Build a Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF documents and ask questions, receiving context-aware answers based on the document content.  
+- **Key Concepts**: LangChain, Hugging Face Transformers, document embedding, vector databases (ChromaDB), Gradio web interface, RetrievalQA.
+
 ## 📄 **Repository Structure**
 <pre><code>
 /ai-portfolio
